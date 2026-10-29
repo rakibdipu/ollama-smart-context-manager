@@ -1,0 +1,6 @@
+{
+  "name": "Coding Assistant",
+  "description": "General programming help — algorithms, debugging, code review",
+  "tags": ["python", "javascript", "algorithms", "debugging", "code-review"],
+  "version": "1.0.0"
+}

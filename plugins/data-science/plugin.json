@@ -1,0 +1,6 @@
+{
+  "name": "Data Science Assistant",
+  "description": "Python data analysis, pandas, numpy, matplotlib, ML basics",
+  "tags": ["pandas", "numpy", "matplotlib", "sklearn", "jupyter", "ml"],
+  "version": "1.0.0"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "DevOps / Linux Assistant",
+  "description": "Docker, bash scripting, Linux sysadmin, CI/CD, networking",
+  "tags": ["docker", "bash", "linux", "nginx", "git", "ci-cd", "systemd"],
+  "version": "1.0.0"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Web Dev Assistant",
+  "description": "HTML, CSS, JavaScript, React, APIs, browser tools",
+  "tags": ["html", "css", "react", "javascript", "api", "frontend"],
+  "version": "1.0.0"
+}
